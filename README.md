@@ -39,8 +39,7 @@ This project is an interactive Power BI dashboard created using a Blinkit grocer
 - Tier 3 outlets generated the highest sales performance  ( 472k out of 1.2M )
 - Medium outlet sizes contributed significantly to total sales 
 - Certain item categories showed stronger customer engagement ( like fruits and vegetables and snack foods )
-- Sales trends fluctuated across establishment years
-
+- Sales changed differently for outlets established in different years.
 ---
 
 ## Skills Demonstrated
